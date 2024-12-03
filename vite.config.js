@@ -11,6 +11,7 @@ const posts = globSync('posts/*.html')
 posts['main'] = resolve(__dirname, 'index.html');
 
 export default defineConfig({
+  base: "/vite_VanillaBlog/",
   build: {
     rollupOptions: {
       input: posts
