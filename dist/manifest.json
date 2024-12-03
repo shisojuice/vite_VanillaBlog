@@ -1,0 +1,25 @@
+{
+    "name": "Example.com App",
+    "short_name": "ExApp",
+    "icons": [
+        {
+            "src": "logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "logo512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "lang": "en",
+    "display": "standalone",
+    "background_color": "#d9d5c2",
+    "theme_color": "#d9d5c2",
+    "description": "This is a Blog",
+    "categories": [
+        "blog"
+    ]
+}

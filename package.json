@@ -1,5 +1,5 @@
 {
-  "name": "japanculture",
+  "name": "myblog",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.4.9"
+    "vite": "^6.0.2"
   },
   "dependencies": {
     "glob": "^11.0.0"
